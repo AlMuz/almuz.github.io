@@ -1,4 +1,0 @@
-[submodule "NUXT-AlmuzWebsite"]
-	path = NUXT-AlmuzWebsite
-	url = https://github.com/AlMuz/NUXT-AlmuzWebsite.git
-	branch = gh-pages
